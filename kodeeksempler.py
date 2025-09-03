@@ -93,27 +93,28 @@ for h in "Ananananananananas":
     
 # Python Operators
 
+# plus
 a = 5 + 3
 print(a)
-
+# minus
 b = 5 - 3
 print(b)
-
+# gange
 c = 3 * 10
 print(c)
-
+# dividere
 d = 10 / 5
 print(d)
-
+# modulo
 f = 10 % 4
 print(f)
-
+# exponentiel
 g = 10 ** 2
 print(g)
-
+# floor division
 h = 13 // 5
 print(h)
-
+# hurtig plus
 b += 25
 print(b)
 
